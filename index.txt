@@ -1,0 +1,241 @@
+Karthik Maroju - Personal Portfolio
+
+# sidebar
+
+alt = Karthik Maroju 
+Karthik Maroju 
+AI&ML Engineer
+
+Show Contacts
+
+Email
+karthikmaroju479@gmail.com
+
+Phone
++919666387322
+
+Birthday
+June 06, 2004
+
+Location
+Vizianagaram , Andhra Pradesh , India 
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+
+I’m **Maroju Karthik**, a passionate and motivated individual focused on building intelligent systems and solving real-world problems through technology.
+
+I enjoy working on innovative ideas, continuously improving my technical skills, and taking on new challenges that help me grow both personally and professionally. My goal is to create impactful solutions and contribute meaningfully in the tech industry.
+
+
+## service
+
+What i'm doing
+
+alt = fa-python icon
+Python Developer
+High-quality backend development and automation solutions using Python at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = fa-brain icon
+Data Scientist
+Analyzing complex data to build predictive and data-driven solutions.
+
+alt = fa-robot 
+Ai&ML Engineer
+Designing intelligent systems with advanced AI and Machine Learning technologies.
+
+## testimonials
+
+Testimonials
+
+alt = MY VISION
+MY VISION
+My Vision To build innovative digital experiences that are fast, responsive, and visually impressive.
+
+alt = My Mother
+My mother 
+My mother is my constant source of strength and encouragement. Her patience, care, and belief in me inspire me to stay focused and never give up.
+
+alt = My Father 
+My Father 
+My father taught me discipline, responsibility, and hard work. His guidance motivates me to stay determined and aim higher in everything I do.
+
+alt = My Brother 
+Supporter 
+My brother is my supporter and motivator. His encouragement and positive attitude push me to improve and keep moving forward.
+
+## clients
+
+Clients
+
+alt = Love symbol icons
+
+
+
+# resume
+
+Resume
+
+Education
+
+Avanthi Institute Of Engineering And Technology
+2023 — 2026
+B.Tech student specializing in CSE (AI & ML), focused on building a strong technical foundation in AI, data science, and modern software development practices.
+
+GBR Government Polytechnic College
+2019 — 2022
+Diploma graduate in Electrical and Electronics Engineering with strong core knowledge and hands-on experience through labs, training, and projects.
+
+High School 
+2018 — 2019
+Completed Secondary School Education with a GPA of 9.3, gaining a strong foundation in mathematics, science, and general studies. Demonstrated consistent academic performance and disciplined study habits throughout the academic year.
+
+Experience
+
+Electrical Technician
+ARC Property Solutions Pvt.Ltd 
+Mar 2025 - Sep 2025
+Successfully worked as an Electrician at ARC Property Solutions Pvt. Ltd, gaining hands-on experience and strengthening my technical skills.
+
+Python Internship
+APSCHE
+Apr 2025 — Jun 2025
+Successfully completed a certified internship program in Software Programming – Python, organized by Council for Skills and Competencies (CSC India) under APSCHE – Student Internship Initiative. Gained hands-on experience in core Python programming, data structures, and real-time application development.
+
+Artificial Intelligence Internship 
+Growfinix
+Jul 2025 — Sep 2025
+Completed a 2-month virtual internship in Artificial Intelligence at Growfinix, gaining hands-on experience, enhancing technical skills, and contributing to real-time projects with consistent performance and professionalism.
+
+My skills
+
+Python Developer 
+80%
+AI&ML Engineer
+70%
+Data Scientist
+40%
+Web Development 
+50%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Python Developer
+Ai&ML Engineer
+Web development
+
+Select category
+All
+Python Developer
+AI&ML Engineer
+Web development
+
+alt = Data Scientist
+Data Scientist
+
+alt = Python Developer 
+Python Developer
+Backend development
+
+alt = AI Engineer
+AI Engineer
+Model Building 
+
+alt = ML Engineer
+ML Engineer
+Model Deployment & Integration
+
+alt = dsm.
+DSM.
+Web design
+
+alt = metaspark
+MetaSpark
+Web design
+
+alt = summary
+Summary
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+
+
+# updates
+
+Updates
+
+alt = Design conferences in 2022
+Design
+Fab 23, 2022
+Design conferences in 2022
+Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+
+alt = Best fonts every designer
+Design
+Fab 23, 2022
+Best fonts every designer
+Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+
+alt = Design digest #80
+Design
+Fab 23, 2022
+Design digest #80
+Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+
+alt = UI interactions of the week
+Design
+Fab 23, 2022
+UI interactions of the week
+Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+
+alt = The forgotten art of spacing
+Design
+Fab 23, 2022
+The Forgotten Art Of Spacing
+Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+alt = Design digest #79
+Design
+Fab 23, 2022
+Design Digest #79
+Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
